@@ -11,6 +11,7 @@
 **Android/Java**
 * **dex2jar**: [https://github.com/pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - convert dex files to .class files
 * **JD-GUI**: [http://jd.benow.ca/](http://jd.benow.ca/) - utility for viewing java source code .class files
+* **Evil-Droid**: [https://github.com/M4sc3r4n0/Evil-Droid](https://github.com/M4sc3r4n0/Evil-Droid) - framework to create, generate & embed apk payloads to penetrate android platforms
 
 # Threat Hunting
 
