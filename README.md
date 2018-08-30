@@ -5,7 +5,7 @@
 * **FLOSS**: [https://github.com/fireeye/flare-floss](https://github.com/fireeye/flare-floss) - uses advanced static analysis techniques to automatically deobfuscate strings from malware binaries
 
 **.NET Reversing and debugging**
-* **dnSpy**: [https://github.com/0xd4d/dnSpy] (https://github.com/0xd4d/dnSpy) - tool for debugging and editing .NET assemblies when no source code is available
+* **dnSpy**: [https://github.com/0xd4d/dnSpy](https://github.com/0xd4d/dnSpy) - tool for debugging and editing .NET assemblies when no source code is available
 
 # Threat Hunting
 
