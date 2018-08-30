@@ -8,6 +8,10 @@
 **.NET Reversing and debugging**
 * **dnSpy**: [https://github.com/0xd4d/dnSpy](https://github.com/0xd4d/dnSpy) - tool for debugging and editing .NET assemblies when no source code is available
 
+**Android/Java**
+* **dex2jar**: [https://github.com/pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - convert dex files to .class files
+* **JD-GUI**: [http://jd.benow.ca/](http://jd.benow.ca/) - utility for viewing java source code .class files
+
 # Threat Hunting
 
 **Hypothesis Generation**
