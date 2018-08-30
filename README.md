@@ -3,6 +3,7 @@
 **String Analysis**
 
 * **FLOSS**: [https://github.com/fireeye/flare-floss](https://github.com/fireeye/flare-floss) - uses advanced static analysis techniques to automatically deobfuscate strings from malware binaries
+* **CyberChef**: [https://gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) - Decode and identify a variety of data formats
 
 **.NET Reversing and debugging**
 * **dnSpy**: [https://github.com/0xd4d/dnSpy](https://github.com/0xd4d/dnSpy) - tool for debugging and editing .NET assemblies when no source code is available
