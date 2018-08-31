@@ -20,6 +20,9 @@
 * **Mitre ATT&CK** [https://attack.mitre.org/wiki/Main_Page](https://attack.mitre.org/wiki/Main_Page)
 * **Unfetter** [https://nsacyber.github.io/unfetter/](https://nsacyber.github.io/unfetter/)
 
+**Hunting Overviews**
+
+* **Sqrrl Practical Guide** [https://sqrrl.com/media/ebook-web.pdf](https://sqrrl.com/media/ebook-web.pdf) - Your practical guide to threathunting 
 
 # Aws Security Tools 
 Forked from toniblyx/my-arsenal-of-aws-security-tools
