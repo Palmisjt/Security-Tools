@@ -1,5 +1,15 @@
 # Malware Analysis
 
+**Examining Document Files**
+
+Microsft Office Documents 
+* **officeparser**: [https://github.com/unixfreak0037/officeparser](https://github.com/unixfreak0037/officeparser) - parses the format of OLE compound documents used by Microsoft Office applications to extract macros or embedded files. (Python)
+* **oletools**: [http://www.decalage.info/python/oletools](http://www.decalage.info/python/oletools) - a package of tools for analyzing Microsoft OLE2 files. (Python)
+* **oledump.py**: [https://blog.didierstevens.com/programs/oledump-py/](https://blog.didierstevens.com/programs/oledump-py/) - tool developed by Didier Stevens for analyzing streams within ole files. (Python)
+
+PDFs
+* **pdfid**: https://blog.didierstevens.com/programs/pdf-tools/](https://blog.didierstevens.com/programs/pdf-tools/) - scan a file to look for certain PDF keywords, allowing you to identify PDF documents that contain (for example) JavaScript or execute an action when opened. 
+* **pdf-parser.py**: https://blog.didierstevens.com/programs/pdf-tools/](https://blog.didierstevens.com/programs/pdf-tools/) -  parse a PDF document to identify the fundamental elements used in the analyzed file. 
 **String Analysis**
 
 * **FLOSS**: [https://github.com/fireeye/flare-floss](https://github.com/fireeye/flare-floss) - uses advanced static analysis techniques to automatically deobfuscate strings from malware binaries
