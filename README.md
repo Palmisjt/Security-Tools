@@ -86,3 +86,9 @@ Forked from toniblyx/my-arsenal-of-aws-security-tools
 
 * [http://flaws.cloud/](http://flaws.cloud/)
 * [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)
+
+
+# Red Teaming
+
+* **PHP Reverse Shell**:[http://pentestmonkey.net/tools/web-shells/php-reverse-shell](http://pentestmonkey.net/tools/web-shells/php-reverse-shell)
+* **XSS Chef**:[https://rastating.github.io/xss-chef/] (https://rastating.github.io/xss-chef/)
