@@ -18,6 +18,9 @@ PDFs
 **.NET Reversing and debugging**
 * **dnSpy**: [https://github.com/0xd4d/dnSpy](https://github.com/0xd4d/dnSpy) - tool for debugging and editing .NET assemblies when no source code is available
 
+**Shellcode**
+* **scdbg**: [http://sandsprite.com/blogs/index.php?uid=7&pid=152](http://sandsprite.com/blogs/index.php?uid=7&pid=152) - a shellcode analysis application built around the libemu emulation library.
+
 **Android/Java**
 * **dex2jar**: [https://github.com/pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - convert dex files to .class files
 * **JD-GUI**: [http://jd.benow.ca/](http://jd.benow.ca/) - utility for viewing java source code .class files
