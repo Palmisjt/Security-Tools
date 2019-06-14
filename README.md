@@ -95,6 +95,7 @@ Forked from toniblyx/my-arsenal-of-aws-security-tools
 
 * **PHP Reverse Shell**:[http://pentestmonkey.net/tools/web-shells/php-reverse-shell](http://pentestmonkey.net/tools/web-shells/php-reverse-shell)
 * **XSS Chef**:[https://rastating.github.io/xss-chef/] (https://rastating.github.io/xss-chef/)
+* **Red Team Wiki**: [https://www.peerlyst.com/posts/the-red-team-wiki-chiheb-chebbi](https://www.peerlyst.com/posts/the-red-team-wiki-chiheb-chebbi)
 
 # Incident Response 
 
