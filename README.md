@@ -97,6 +97,7 @@ Forked from toniblyx/my-arsenal-of-aws-security-tools
 * **XSS Chef**:[https://rastating.github.io/xss-chef/] (https://rastating.github.io/xss-chef/)
 * **Red Team Wiki**: [https://www.peerlyst.com/posts/the-red-team-wiki-chiheb-chebbi](https://www.peerlyst.com/posts/the-red-team-wiki-chiheb-chebbi)
 
-# Incident Response 
+# Digital Forensics and Incident Response 
 
+* **DFIR Cheatsheet by Jai Minton**: [https://www.jaiminton.com/cheatsheet/DFIR/](https://www.jaiminton.com/cheatsheet/DFIR/)
 * **RSA Incident Response Manual**: [https://drive.google.com/file/d/1AKPTpb1e2c7vZv0YNcxAz0EwCpyImvOh/view](https://drive.google.com/file/d/1AKPTpb1e2c7vZv0YNcxAz0EwCpyImvOh/view)
