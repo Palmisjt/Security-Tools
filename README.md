@@ -30,12 +30,30 @@ PDFs
 
 **Hypothesis Generation**
 
-* **Mitre ATT&CK** [https://attack.mitre.org/wiki/Main_Page](https://attack.mitre.org/wiki/Main_Page)
-* **Unfetter** [https://nsacyber.github.io/unfetter/](https://nsacyber.github.io/unfetter/)
+* **Mitre ATT&CK**: [https://attack.mitre.org/wiki/Main_Page](https://attack.mitre.org/wiki/Main_Page)
+* **Unfetter**: [https://nsacyber.github.io/unfetter/](https://nsacyber.github.io/unfetter/)
+
+**Generate Attack Patterns and logs**
+* **Atomic Red Team**: [https://atomicredteam.io/](https://atomicredteam.io/) - List of  small, highly portable detection tests mapped to the MITRE ATT&CK Framework.
+* **Atomic Red Team GitHub**: [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)
+* **ThreatHunter-Playbook**: [https://github.com/Cyb3rWard0g/ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook) - aids the development of techniques and hypothesis for hunting campaigns by leveraging Sysmon and Windows Events logs
+* **The Hunting Project**: [https://www.threathunting.net/data-index](https://www.threathunting.net/data-index) - Hunting Procedures Indexed by Data Required
+* **Windows ATT&CK logging cheat sheet** [https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/5b8f091c0ebbe8644d3a886c/1536100639356/Windows+ATT%26CK_Logging+Cheat+Sheet_ver_Sept_2018.pdf](https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/5b8f091c0ebbe8644d3a886c/1536100639356/Windows+ATT%26CK_Logging+Cheat+Sheet_ver_Sept_2018.pdf) - maps the tactics and techniques of the Mitre ATT&CK framework to Windows audit log
+event IDs in order to know what to collect and harvest.
+
+**Analytics**
+
+* **MITRE Cyber Analytics Repository**: [https://car.mitre.org/](https://car.mitre.org/) - a knowledge base of analytics developed by MITRE based on the MITRE ATT&CK adversary model.
+* **EQL Analytics Library**: [https://eqllib.readthedocs.io/en/latest/index.html](https://eqllib.readthedocs.io/en/latest/index.html) - a library of event based analytics, written in EQL to detect adversary behaviors identified in MITRE ATT&CK™.
+
+**Labs**
+* **Detection Lab**:[https://github.com/clong/DetectionLab](https://github.com/clong/DetectionLab) - https://github.com/clong/DetectionLab
+* **Hunter**: [https://github.com/ThreatHuntingProject/hunter](https://github.com/ThreatHuntingProject/hunter) - A threat hunting / data analysis environment based on Python, Pandas, PySpark and Jupyter Notebook.
 
 **Hunting Overviews**
 
-* **Sqrrl Practical Guide** [https://sqrrl.com/media/ebook-web.pdf](https://sqrrl.com/media/ebook-web.pdf) - Your practical guide to threathunting 
+* **Sqrrl Practical Guide**: [https://sqrrl.com/media/ebook-web.pdf](https://sqrrl.com/media/ebook-web.pdf) - Your practical guide to threat hunting 
+* **Sqrrl Huntepedia**: [https://web.archive.org/web/20180805101835/https://sqrrl.com/media/huntpedia-web-2.pdf](https://web.archive.org/web/20180805101835/https://sqrrl.com/media/huntpedia-web-2.pdf)
 
 # Cloud Tools
 Forked from toniblyx/my-arsenal-of-aws-security-tools
