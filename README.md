@@ -26,6 +26,9 @@ PDFs
 * **JD-GUI**: [http://jd.benow.ca/](http://jd.benow.ca/) - utility for viewing java source code .class files
 * **Evil-Droid**: [https://github.com/M4sc3r4n0/Evil-Droid](https://github.com/M4sc3r4n0/Evil-Droid) - framework to create, generate & embed apk payloads to penetrate android platforms
 
+**Emulation**
+* **drakvuf**: [https://drakvuf.com/](https://drakvuf.com/)
+
 # Threat Hunting
 
 **Hypothesis Generation**
