@@ -29,12 +29,6 @@ PDFs
 **Emulation**
 * **drakvuf**: [https://drakvuf.com/](https://drakvuf.com/)
 
-# Forensics
-
-**Mac IR**
-
-* **PICT**: [https://github.com/thomasareed/pict](https://github.com/thomasareed/pict)
-* **AutoMacTC**: [https://github.com/CrowdStrike/automactc](https://github.com/CrowdStrike/automactc)
 
 # Threat Hunting
 
@@ -129,3 +123,8 @@ Forked from toniblyx/my-arsenal-of-aws-security-tools
 
 * **DFIR Cheatsheet by Jai Minton**: [https://www.jaiminton.com/cheatsheet/DFIR/](https://www.jaiminton.com/cheatsheet/DFIR/)
 * **RSA Incident Response Manual**: [https://drive.google.com/file/d/1AKPTpb1e2c7vZv0YNcxAz0EwCpyImvOh/view](https://drive.google.com/file/d/1AKPTpb1e2c7vZv0YNcxAz0EwCpyImvOh/view)
+
+**Mac IR**
+
+* **PICT**: [https://github.com/thomasareed/pict](https://github.com/thomasareed/pict)
+* **AutoMacTC**: [https://github.com/CrowdStrike/automactc](https://github.com/CrowdStrike/automactc)
