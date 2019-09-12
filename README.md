@@ -29,6 +29,13 @@ PDFs
 **Emulation**
 * **drakvuf**: [https://drakvuf.com/](https://drakvuf.com/)
 
+# Forensics
+
+**Mac IR**
+
+* **PICT**: [https://github.com/thomasareed/pict](https://github.com/thomasareed/pict)
+* **AutoMacTC**: [https://github.com/CrowdStrike/automactc](https://github.com/CrowdStrike/automactc)
+
 # Threat Hunting
 
 **Hypothesis Generation**
