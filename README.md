@@ -128,3 +128,7 @@ Forked from toniblyx/my-arsenal-of-aws-security-tools
 
 * **PICT**: [https://github.com/thomasareed/pict](https://github.com/thomasareed/pict)
 * **AutoMacTC**: [https://github.com/CrowdStrike/automactc](https://github.com/CrowdStrike/automactc)
+
+**Windows DFIR**
+
+* **PECmd**: [https://github.com/EricZimmerman/PECmd](https://github.com/EricZimmerman/PECmd) - explore windows prefetch files
