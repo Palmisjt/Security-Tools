@@ -132,3 +132,4 @@ Forked from toniblyx/my-arsenal-of-aws-security-tools
 **Windows DFIR**
 
 * **PECmd**: [https://github.com/EricZimmerman/PECmd](https://github.com/EricZimmerman/PECmd) - explore windows prefetch files
+* **EnScript**: [http://www.forensickb.com/2008/09/enscript-to-parse-usnjrnl.html](http://www.forensickb.com/2008/09/enscript-to-parse-usnjrnl.html) - EnScript parses the USNJRNL•$J file and displays the filename, timestamp and reason code to the console tab of EnCase and to a CSV file in the default export folder.
